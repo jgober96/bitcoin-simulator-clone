@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configure the following values
-RAPIDJSON_FOLDER=~/rapidjson
-NS3_FOLDER=~/workspace/ns-allinone-3.25/ns-3.25
+RAPIDJSON_FOLDER=rapidjson
+NS3_FOLDER=ns-allinone-3.27/ns-3.27
 
 # Do not change
 mkdir $NS3_FOLDER/rapidjson

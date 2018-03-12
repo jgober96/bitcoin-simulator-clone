@@ -1,0 +1,533 @@
+Waf: Entering directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Waf: Leaving directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.496s)
+BITCOIN Mode selected
+Node 15 should have at least 700 connections but it has only 99 connections
+Node 17 should have at least 700 connections but it has only 99 connections
+Node 20 should have at least 700 connections but it has only 97 connections
+Node 29 should have at least 700 connections but it has only 93 connections
+Node 30 should have at least 700 connections but it has only 89 connections
+Node 31 should have at least 700 connections but it has only 89 connections
+Node 48 should have at least 700 connections but it has only 80 connections
+Node 54 should have at least 700 connections but it has only 74 connections
+Node 58 should have at least 700 connections but it has only 67 connections
+Node 61 should have at least 700 connections but it has only 55 connections
+Node 76 should have at least 700 connections but it has only 55 connections
+Node 81 should have at least 700 connections but it has only 48 connections
+Node 85 should have at least 700 connections but it has only 46 connections
+Node 90 should have at least 700 connections but it has only 37 connections
+Node 96 should have at least 700 connections but it has only 31 connections
+Node 98 should have at least 700 connections but it has only 31 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = 10.4286
+Average Number of Connections Per Miner = 68.125
+Connections distribution: 
+1-5: 10(10%)
+5-10: 34(34%)
+10-15: 24(24%)
+15-20: 15(15%)
+20-30: 1(1%)
+30-125: 16(16%)
+125-800: 0(0%)
+The nodes connections were created in 0.314678s.
+The minimum number of connections for each node is -1 and whereas the maximum is -1.
+The download speed for region NORTH_AMERICA = 14.5759 Mbps
+The download speed for region EUROPE = 20.515 Mbps
+The download speed for region SOUTH_AMERICA = 12.06 Mbps
+The download speed for region ASIA_PACIFIC = 9.27704 Mbps
+The download speed for region JAPAN = 15.1711 Mbps
+The download speed for region AUSTRALIA = 2.39269 Mbps
+The upload speed for region NORTH_AMERICA = 3.95217 Mbps
+The upload speed for region EUROPE = 6.88487 Mbps
+The upload speed for region SOUTH_AMERICA = 0.773704 Mbps
+The upload speed for region ASIA_PACIFIC = 1.23081 Mbps
+The upload speed for region JAPAN = 3.42699 Mbps
+The upload speed for region AUSTRALIA = 0.662177 Mbps
+The nodes were created in 0.000782967s.
+The total number of links is 983 (0.139041s).
+Internet stack installed in 0.0250261s.
+The Ip addresses have been assigned in 0.041683s.
+Nodes distribution: 
+NORTH_AMERICA: 42%
+EUROPE: 42%
+SOUTH_AMERICA: 1%
+ASIA_PACIFIC: 11%
+JAPAN: 2%
+AUSTRALIA: 2%
+OTHER: 0%
+The applications have been setup.
+Setup time = 0.587479s
+Mean Block Receive Time = 665.387 or 11min and 5.38673s
+Mean Block Propagation Time = 3.19976s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.393 or 11min and 5.39331s
+Mean Block Propagation Time = 6.46328s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38567s
+Mean Block Propagation Time = 2.77467s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.387 or 11min and 5.38667s
+Mean Block Propagation Time = 3.27321s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38279s
+Mean Block Propagation Time = 1.67055s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38067s
+Mean Block Propagation Time = 0.825091s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38502s
+Mean Block Propagation Time = 2.08263s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.38183s
+Mean Block Propagation Time = 1.13953s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.426 or 11min and 5.4255s
+Mean Block Propagation Time = 20.3997s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38309s
+Mean Block Propagation Time = 1.51363s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.388 or 11min and 5.38792s
+Mean Block Propagation Time = 3.84959s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.387 or 11min and 5.38658s
+Mean Block Propagation Time = 3.25432s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38588s
+Mean Block Propagation Time = 2.94711s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.389 or 11min and 5.38894s
+Mean Block Propagation Time = 4.26006s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.38239s
+Mean Block Propagation Time = 1.50085s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.37992s
+Mean Block Propagation Time = 0.181659s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Time/Block = 0.42957s
+Mean Block Receive Time = 665.388 or 11min and 5.38764s
+Mean Block Propagation Time = 3.72298s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.379 or 11min and 5.37924s
+Mean Block Propagation Time = 0.366863s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38604s
+Mean Block Propagation Time = 2.7955s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.392 or 11min and 5.39191s
+Mean Block Propagation Time = 5.67985s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.38047s
+Mean Block Propagation Time = 0.312727s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.39 or 11min and 5.39006s
+Mean Block Propagation Time = 4.80358s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38455s
+Mean Block Propagation Time = 2.30467s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.393 or 11min and 5.39256s
+Mean Block Propagation Time = 6.04894s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.38249s
+Mean Block Propagation Time = 1.40844s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38273s
+Mean Block Propagation Time = 1.29514s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.396 or 11min and 5.39562s
+Mean Block Propagation Time = 7.55015s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.387 or 11min and 5.38704s
+Mean Block Propagation Time = 3.42996s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38474s
+Mean Block Propagation Time = 2.36628s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.379 or 11min and 5.37937s
+Mean Block Propagation Time = 0.174922s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38056s
+Mean Block Propagation Time = 0.331618s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.37955s
+Mean Block Propagation Time = 0.392763s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.384 or 11min and 5.38355s
+Mean Block Propagation Time = 1.88168s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38548s
+Mean Block Propagation Time = 2.65515s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38597s
+Mean Block Propagation Time = 3.10223s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38113s
+Mean Block Propagation Time = 0.599223s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38285s
+Mean Block Propagation Time = 1.56838s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38514s
+Mean Block Propagation Time = 2.50049s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38129s
+Mean Block Propagation Time = 1.00208s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.384 or 11min and 5.38443s
+Mean Block Propagation Time = 1.94396s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38454s
+Mean Block Propagation Time = 1.94653s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38133s
+Mean Block Propagation Time = 1.02294s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.403 or 11min and 5.40286s
+Mean Block Propagation Time = 10.9739s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.45 or 11min and 5.4503s
+Mean Block Propagation Time = 33.8953s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38563s
+Mean Block Propagation Time = 2.59305s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38524s
+Mean Block Propagation Time = 2.70908s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.398 or 11min and 5.39785s
+Mean Block Propagation Time = 8.48083s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.392 or 11min and 5.39183s
+Mean Block Propagation Time = 5.72704s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38065s
+Mean Block Propagation Time = 0.526253s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.388 or 11min and 5.38761s
+Mean Block Propagation Time = 3.72681s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.384 or 11min and 5.38422s
+Mean Block Propagation Time = 2.27214s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.474 or 11min and 5.47415s
+Mean Block Propagation Time = 45.6397s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38283s
+Mean Block Propagation Time = 1.61759s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.389 or 11min and 5.38865s
+Mean Block Propagation Time = 4.25438s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38084s
+Mean Block Propagation Time = 0.50167s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38122s
+Mean Block Propagation Time = 1.04174s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.38227s
+Mean Block Propagation Time = 1.39947s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38264s
+Mean Block Propagation Time = 1.59843s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.3801s
+Mean Block Propagation Time = 0.591512s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.388 or 11min and 5.38753s
+Mean Block Propagation Time = 3.66582s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.381 or 11min and 5.38106s
+Mean Block Propagation Time = 0.810401s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.38029s
+Mean Block Propagation Time = 0.361797s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.415 or 11min and 5.41486s
+Mean Block Propagation Time = 16.7903s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.3824s
+Mean Block Propagation Time = 0.973056s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.412 or 11min and 5.41196s
+Mean Block Propagation Time = 15.3795s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38645s
+Mean Block Propagation Time = 3.21505s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.391 or 11min and 5.39103s
+Mean Block Propagation Time = 5.37613s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.39 or 11min and 5.38969s
+Mean Block Propagation Time = 4.62381s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.405 or 11min and 5.40537s
+Mean Block Propagation Time = 12.1395s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38489s
+Mean Block Propagation Time = 2.47716s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.388 or 11min and 5.38759s
+Mean Block Propagation Time = 3.7654s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.397 or 11min and 5.39666s
+Mean Block Propagation Time = 7.99653s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.387 or 11min and 5.38651s
+Mean Block Propagation Time = 3.25408s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.38207s
+Mean Block Propagation Time = 1.12891s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.387 or 11min and 5.3874s
+Mean Block Propagation Time = 3.80239s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38643s
+Mean Block Propagation Time = 3.17086s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.37974s
+Mean Block Propagation Time = 0.324328s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.382 or 11min and 5.38222s
+Mean Block Propagation Time = 1.25237s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.384 or 11min and 5.3839s
+Mean Block Propagation Time = 2.06937s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.462 or 11min and 5.46209s
+Mean Block Propagation Time = 39.5487s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.394 or 11min and 5.39367s
+Mean Block Propagation Time = 6.64654s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.37983s
+Mean Block Propagation Time = 0.450057s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.384 or 11min and 5.384s
+Mean Block Propagation Time = 2.16502s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38348s
+Mean Block Propagation Time = 1.84881s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38333s
+Mean Block Propagation Time = 1.80685s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.38001s
+Mean Block Propagation Time = 0.381934s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.401 or 11min and 5.40088s
+Mean Block Propagation Time = 10.0532s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.388 or 11min and 5.38755s
+Mean Block Propagation Time = 3.69708s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.388 or 11min and 5.38793s
+Mean Block Propagation Time = 3.81567s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.385 or 11min and 5.38541s
+Mean Block Propagation Time = 2.61935s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.37964s
+Mean Block Propagation Time = 0.284906s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.383 or 11min and 5.38253s
+Mean Block Propagation Time = 1.50385s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.389 or 11min and 5.38913s
+Mean Block Propagation Time = 4.52326s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.384 or 11min and 5.38388s
+Mean Block Propagation Time = 1.98103s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.397 or 11min and 5.39702s
+Mean Block Propagation Time = 8.243s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.427 or 11min and 5.42735s
+Mean Block Propagation Time = 22.7427s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.379 or 11min and 5.37946s
+Mean Block Propagation Time = 0.220583s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.386 or 11min and 5.38649s
+Mean Block Propagation Time = 3.21443s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.38 or 11min and 5.38019s
+Mean Block Propagation Time = 0.63393s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Mean Block Receive Time = 665.394 or 11min and 5.39441s
+Mean Block Propagation Time = 6.85421s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+
+Total Stats:
+Average Connections/node = 10.4286
+Average Connections/miner = 68.125
+Mean Block Receive Time = 665.389 or 11min and 5.38938s
+Mean Block Propagation Time = 4.63903s
+Median Block Propagation Time = 2.59305s
+10% percentile of Block Propagation Time = 0.392763s
+25% percentile of Block Propagation Time = 1.25237s
+75% percentile of Block Propagation Time = 4.26006s
+90% percentile of Block Propagation Time = 10.0532s
+Miners Mean Block Propagation Time = 0.377345s
+Miners Median Block Propagation Time = 0.366863s
+Mean Block Size = 545225 Bytes
+Total Blocks = 91
+Stale Blocks = 0 (0%)
+The size of the longest fork was 0 blocks
+There were in total 0 blocks in forks
+The average received INV messages were 218439 Bytes (0.223592%)
+The average received GET_HEADERS messages were 14434.2 Bytes (0.0147747%)
+The average received HEADERS messages were 15592.5 Bytes (0.0159604%)
+The average received GET_DATA messages were 11583 Bytes (0.0118563%)
+The average received BLOCK messages were 4.85876e+07 Bytes (49.7338%)
+The average sent INV messages were 218439 Bytes (0.223592%)
+The average sent GET_HEADERS messages were 14434.2 Bytes (0.0147747%)
+The average sent HEADERS messages were 15592.5 Bytes (0.0159604%)
+The average sent GET_DATA messages were 11583 Bytes (0.0118563%)
+The average sent BLOCK messages were 4.85876e+07 Bytes (49.7338%)
+The average received EXT_INV messages were 0 Bytes (0%)
+The average received EXT_GET_HEADERS messages were 0 Bytes (0%)
+The average received EXT_HEADERS messages were 0 Bytes (0%)
+The average received EXT_GET_DATA messages were 0 Bytes (0%)
+The average received CHUNK messages were 0 Bytes (0%)
+The average sent EXT_INV messages were 0 Bytes (0%)
+The average sent EXT_GET_HEADERS messages were 0 Bytes (0%)
+The average sent EXT_HEADERS messages were 0 Bytes (0%)
+The average sent EXT_GET_DATA messages were 0 Bytes (0%)
+The average sent CHUNK messages were 0 Bytes (0%)
+Total average traffic due to INV messages = 436878 Bytes(0.447185%)
+Total average traffic due to GET_HEADERS messages = 28868.4 Bytes(0.0295495%)
+Total average traffic due to HEADERS messages = 31185 Bytes(0.0319207%)
+Total average traffic due to GET_DATA messages = 23166 Bytes(0.0237125%)
+Total average traffic due to BLOCK messages = 9.71751e+07 Bytes(99.4676%)
+Total average traffic due to EXT_INV messages = 0 Bytes(0%)
+Total average traffic due to EXT_GET_HEADERS messages = 0 Bytes(0%)
+Total average traffic due to EXT_HEADERS messages = 0 Bytes(0%)
+Total average traffic due to EXT_GET_DATA messages = 0 Bytes(0%)
+Total average traffic due to CHUNK messages = 0 Bytes(0%)
+Total average traffic/node = 9.76952e+07 Bytes (14.4734 Kbps and 1085.5 KB/block)
+0.442518s per generated block
+
+Block Propagation Times = [0.174922, 0.181659, 0.220583, 0.284906, 0.312727, 0.324328, 0.331618, 0.361797, 0.366863, 0.381934, 0.392763, 0.450057, 0.50167, 0.526253, 0.591512, 0.599223, 0.63393, 0.810401, 0.825091, 0.973056, 1.00208, 1.02294, 1.04174, 1.12891, 1.13953, 1.25237, 1.29514, 1.39947, 1.40844, 1.50085, 1.50385, 1.51363, 1.56838, 1.59843, 1.61759, 1.67055, 1.80685, 1.84881, 1.88168, 1.94396, 1.94653, 1.98103, 2.06937, 2.08263, 2.16502, 2.27214, 2.30467, 2.36628, 2.47716, 2.50049, 2.59305, 2.61935, 2.65515, 2.70908, 2.77467, 2.7955, 2.94711, 3.10223, 3.17086, 3.19976, 3.21443, 3.21505, 3.25408, 3.25432, 3.27321, 3.42996, 3.66582, 3.69708, 3.72298, 3.72681, 3.7654, 3.80239, 3.81567, 3.84959, 4.25438, 4.26006, 4.52326, 4.62381, 4.80358, 5.37613, 5.67985, 5.72704, 6.04894, 6.46328, 6.64654, 6.85421, 7.55015, 7.99653, 8.243, 8.48083, 10.0532, 10.9739, 12.1395, 15.3795, 16.7903, 20.3997, 22.7427, 33.8953, 39.5487, 45.6397]
+
+Miners Block Propagation Times = [0.174922, 0.181659, 0.220583, 0.284906, 0.312727, 0.324328, 0.331618, 0.361797, 0.366863, 0.381934, 0.392763, 0.450057, 0.50167, 0.526253, 0.591512, 0.63393]
+
+Download Bandwidths = [7.2836, 7.2888, 7.28533, 7.29573, 7.3044, 7.29226, 7.2784, 7.29226, 7.27666, 7.28013, 7.29573, 7.30266, 7.29226, 7.29573, 7.29573, 5.77539, 7.29746, 5.92722, 7.2784, 7.28706, 6.02156, 7.29746, 7.28706, 7.3148, 7.29746, 7.28013, 7.30093, 7.2888, 7.2888, 7.13524, 6.52952, 6.98538, 7.28533, 7.2836, 7.30266, 7.2784, 7.29226, 7.28706, 7.2888, 7.28013, 7.28013, 7.28706, 7.3044, 7.2888, 7.2784, 7.29746, 7.2836, 7.29573, 7.11604, 7.294, 7.29746, 7.30093, 7.28706, 7.29226, 7.26254, 7.30266, 7.30266, 7.2888, 7.29781, 7.2888, 7.2836, 7.28671, 7.29226, 7.27666, 7.2888, 7.29746, 7.30266, 7.30266, 7.28533, 7.2836, 7.28533, 7.2888, 7.29573, 7.28533, 7.28706, 7.29573, 7.16321, 7.29573, 7.28706, 7.2836, 7.30093, 7.3564, 7.30786, 7.2836, 7.2888, 7.35293, 7.29226, 7.2888, 7.30786, 7.2836, 7.33733, 7.294, 7.29573, 7.30093, 7.2888, 7.28533, 7.32693, 7.30093, 7.32693, 7.2836] average = 7.23668
+
+Upload Bandwidths = [0.01256, 0.01776, 0.0142933, 0.0246933, 0.03336, 0.0212267, 0.00736, 0.0212267, 0.00562667, 0.00909333, 0.0246933, 0.0316267, 0.0212267, 0.0246933, 0.0246933, 186.636, 0.0264267, 170.883, 0.00736, 0.0160267, 145.173, 0.0264267, 0.0160267, 0.04376, 0.0264267, 0.00909333, 0.0298933, 0.01776, 0.01776, 35.7158, 84.8736, 40.6427, 0.0142933, 0.01256, 0.0316267, 0.00736, 0.0212267, 0.0160267, 0.01776, 0.00909333, 0.00909333, 0.0160267, 0.03336, 0.01776, 0.00736, 0.0264267, 0.01256, 0.0246933, 24.2698, 0.02296, 0.0264267, 0.0298933, 0.0160267, 0.0212267, 10.5424, 0.0316267, 0.0316267, 0.01776, 6.68075, 0.01776, 0.01256, 4.67023, 0.0212267, 0.00562667, 0.01776, 0.0264267, 0.0316267, 0.0316267, 0.0142933, 0.01256, 0.0142933, 0.01776, 0.0246933, 0.0142933, 0.0160267, 0.0246933, 11.5354, 0.0246933, 0.0160267, 0.01256, 0.0298933, 0.08536, 0.0368267, 0.01256, 0.01776, 0.0818933, 0.0212267, 0.01776, 0.0368267, 0.01256, 0.0662933, 0.02296, 0.0246933, 0.0298933, 0.01776, 0.0142933, 0.0558933, 0.0298933, 0.0558933, 0.01256] average = 7.23668
+
+Total Bandwidths = [7.29616, 7.30656, 7.29962, 7.32042, 7.33776, 7.31349, 7.28576, 7.31349, 7.28229, 7.28922, 7.32042, 7.33429, 7.31349, 7.32042, 7.32042, 192.411, 7.32389, 176.81, 7.28576, 7.30309, 151.195, 7.32389, 7.30309, 7.35856, 7.32389, 7.28922, 7.33082, 7.30656, 7.30656, 42.851, 91.4031, 47.6281, 7.29962, 7.29616, 7.33429, 7.28576, 7.31349, 7.30309, 7.30656, 7.28922, 7.28922, 7.30309, 7.33776, 7.30656, 7.28576, 7.32389, 7.29616, 7.32042, 31.3858, 7.31696, 7.32389, 7.33082, 7.30309, 7.31349, 17.8049, 7.33429, 7.33429, 7.30656, 13.9786, 7.30656, 7.29616, 11.9569, 7.31349, 7.28229, 7.30656, 7.32389, 7.33429, 7.33429, 7.29962, 7.29616, 7.29962, 7.30656, 7.32042, 7.29962, 7.30309, 7.32042, 18.6987, 7.32042, 7.30309, 7.29616, 7.33082, 7.44176, 7.34469, 7.29616, 7.30656, 7.43482, 7.31349, 7.30656, 7.34469, 7.29616, 7.40362, 7.31696, 7.32042, 7.33082, 7.30656, 7.29962, 7.38282, 7.33082, 7.38282, 7.29616] average = 14.4734
+
+Block Timeouts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] average = 0
+
+Chunk Timeouts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] average = 0
+
+The broadcast type was STANDARD.
+
+The simulation ran for 40.4141s simulating 1000mins. Performed 1484.63 faster than realtime.
+Setup time = 0.587479s
+It consisted of 100 nodes (16 miners) with minConnectionsPerNode = -1 and maxConnectionsPerNode = -1.
+The averageBlockGenIntervalMinutes was 10min.

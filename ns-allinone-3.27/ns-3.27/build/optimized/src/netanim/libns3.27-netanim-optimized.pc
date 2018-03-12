@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.27
+
+Name: libns3-netanim
+Description: ns-3 module ns3-netanim
+Version: 3.27
+Libs: -L${libdir} -Wl,--whole-archive,-Bstatic -lns3.27-netanim-optimized
+Cflags: -I${includedir}
+Requires: libns3.27-internet-optimized libns3.27-mobility-optimized libns3.27-wimax-optimized libns3.27-wifi-optimized libns3.27-csma-optimized libns3.27-lte-optimized libns3.27-uan-optimized libns3.27-lr-wpan-optimized libns3.27-energy-optimized libns3.27-wave-optimized

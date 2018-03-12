@@ -1,0 +1,39 @@
+Waf: Entering directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Waf: Leaving directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.636s)
+BITCOIN Mode selected
+Node 733 should have at least 700 connections but it has only 633 connections
+Node 743 should have at least 700 connections but it has only 554 connections
+Node 790 should have at least 700 connections but it has only 504 connections
+Node 815 should have at least 700 connections but it has only 437 connections
+Node 835 should have at least 700 connections but it has only 373 connections
+Node 883 should have at least 700 connections but it has only 293 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = 10.9705
+Average Number of Connections Per Miner = 612.562
+Connections distribution: 
+1-5: 90(9%)
+5-10: 407(40.7%)
+10-15: 312(31.2%)
+15-20: 131(13.1%)
+20-30: 40(4%)
+30-125: 4(0.4%)
+125-800: 16(1.6%)
+The nodes connections were created in 0.318976s.
+The minimum number of connections for each node is -1 and whereas the maximum is -1.
+The download speed for region NORTH_AMERICA = 24.7704 Mbps
+The download speed for region EUROPE = 23.1992 Mbps
+The download speed for region SOUTH_AMERICA = 4.84744 Mbps
+The download speed for region ASIA_PACIFIC = 11.8314 Mbps
+The download speed for region JAPAN = 13.5509 Mbps
+The download speed for region AUSTRALIA = 5.22736 Mbps
+The upload speed for region NORTH_AMERICA = 5.59107 Mbps
+The upload speed for region EUROPE = 8.58979 Mbps
+The upload speed for region SOUTH_AMERICA = 2.96966 Mbps
+The upload speed for region ASIA_PACIFIC = 6.30298 Mbps
+The upload speed for region JAPAN = 4.70448 Mbps
+The upload speed for region AUSTRALIA = 8.48569 Mbps
+The nodes were created in 0.0109339s.
+Interrupted 

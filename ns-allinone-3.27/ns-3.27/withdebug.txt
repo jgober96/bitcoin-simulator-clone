@@ -1,0 +1,137 @@
+Waf: Entering directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Waf: Leaving directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.511s)
+BITCOIN Mode selected
+Node 0 should have at least 700 connections but it has only 15 connections
+Node 1 should have at least 700 connections but it has only 15 connections
+Node 2 should have at least 700 connections but it has only 15 connections
+Node 3 should have at least 700 connections but it has only 15 connections
+Node 4 should have at least 700 connections but it has only 15 connections
+Node 5 should have at least 700 connections but it has only 15 connections
+Node 6 should have at least 700 connections but it has only 15 connections
+Node 7 should have at least 700 connections but it has only 15 connections
+Node 8 should have at least 700 connections but it has only 15 connections
+Node 9 should have at least 700 connections but it has only 15 connections
+Node 10 should have at least 700 connections but it has only 15 connections
+Node 11 should have at least 700 connections but it has only 15 connections
+Node 12 should have at least 700 connections but it has only 15 connections
+Node 13 should have at least 700 connections but it has only 15 connections
+Node 14 should have at least 700 connections but it has only 15 connections
+Node 15 should have at least 700 connections but it has only 15 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = -nan
+Average Number of Connections Per Miner = 15
+Connections distribution: 
+1-5: 0(0%)
+5-10: 0(0%)
+10-15: 16(100%)
+15-20: 0(0%)
+20-30: 0(0%)
+30-125: 0(0%)
+125-800: 0(0%)
+The nodes connections were created in 0.207145s.
+The minimum number of connections for each node is -1 and whereas the maximum is -1.
+The nodes were created in 0.000134945s.
+The total number of links is 120 (0.0433109s).
+Internet stack installed in 0.00469184s.
+The Ip addresses have been assigned in 0.0037148s.
+Nodes distribution: 
+NORTH_AMERICA: 56.25%
+EUROPE: 18.75%
+SOUTH_AMERICA: 0%
+ASIA_PACIFIC: 25%
+JAPAN: 0%
+AUSTRALIA: 0%
+OTHER: 0%
+The applications have been setup.
+Setup time = 0.313076s
+The miner 0 with hash rate = 0.289 generated 8 blocks (40%) with average block generation time = 1269.62s or 21min and 9.61886s and average size 587195 Bytes
+The miner 1 with hash rate = 0.196 generated 5 blocks (25%) with average block generation time = 2249.14s or 37min and 29.1448s and average size 575840 Bytes
+The miner 2 with hash rate = 0.159 generated 5 blocks (25%) with average block generation time = 1907.05s or 31min and 47.0544s and average size 551432 Bytes
+Time/Block = 0.0398433s
+The miner 3 with hash rate = 0.133 generated 1 blocks (5%) with average block generation time = 1682.48s or 28min and 2.47523s and average size 186201 Bytes
+The miner 4 with hash rate = 0.066 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 5 with hash rate = 0.054 generated 1 blocks (5%) with average block generation time = 3912.4s or 65min and 12.404s and average size 999063 Bytes
+The miner 6 with hash rate = 0.029 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 7 with hash rate = 0.016 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 8 with hash rate = 0.012 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 9 with hash rate = 0.012 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 10 with hash rate = 0.012 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 11 with hash rate = 0.009 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 12 with hash rate = 0.005 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 13 with hash rate = 0.005 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 14 with hash rate = 0.002 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 15 with hash rate = 0.002 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+
+Total Stats:
+Average Connections/node = 0
+Average Connections/miner = 15
+Mean Block Receive Time = 562.292 or 9min and 22.2919s
+Mean Block Propagation Time = 0.348459s
+Median Block Propagation Time = 0.339678s
+10% percentile of Block Propagation Time = 0.184902s
+25% percentile of Block Propagation Time = 0.299747s
+75% percentile of Block Propagation Time = 0.432476s
+90% percentile of Block Propagation Time = 0.494608s
+Miners Mean Block Propagation Time = 0.348459s
+Miners Median Block Propagation Time = 0.339678s
+Mean Block Size = 575959 Bytes
+Total Blocks = 21
+Stale Blocks = 0 (0%)
+The size of the longest fork was 0 blocks
+There were in total 0 blocks in forks
+The average received INV messages were 36562.5 Bytes (0.168549%)
+The average received GET_HEADERS messages were 3037.5 Bytes (0.0140026%)
+The average received HEADERS messages were 3281.25 Bytes (0.0151262%)
+The average received GET_DATA messages were 2437.5 Bytes (0.0112366%)
+The average received BLOCK messages were 1.08009e+07 Bytes (49.7911%)
+The average sent INV messages were 36562.5 Bytes (0.168549%)
+The average sent GET_HEADERS messages were 3037.5 Bytes (0.0140026%)
+The average sent HEADERS messages were 3281.25 Bytes (0.0151262%)
+The average sent GET_DATA messages were 2437.5 Bytes (0.0112366%)
+The average sent BLOCK messages were 1.08009e+07 Bytes (49.7911%)
+The average received EXT_INV messages were 0 Bytes (0%)
+The average received EXT_GET_HEADERS messages were 0 Bytes (0%)
+The average received EXT_HEADERS messages were 0 Bytes (0%)
+The average received EXT_GET_DATA messages were 0 Bytes (0%)
+The average received CHUNK messages were 0 Bytes (0%)
+The average sent EXT_INV messages were 0 Bytes (0%)
+The average sent EXT_GET_HEADERS messages were 0 Bytes (0%)
+The average sent EXT_HEADERS messages were 0 Bytes (0%)
+The average sent EXT_GET_DATA messages were 0 Bytes (0%)
+The average sent CHUNK messages were 0 Bytes (0%)
+Total average traffic due to INV messages = 73125 Bytes(0.337098%)
+Total average traffic due to GET_HEADERS messages = 6075 Bytes(0.0280051%)
+Total average traffic due to HEADERS messages = 6562.5 Bytes(0.0302524%)
+Total average traffic due to GET_DATA messages = 4875 Bytes(0.0224732%)
+Total average traffic due to BLOCK messages = 2.16018e+07 Bytes(99.5822%)
+Total average traffic due to EXT_INV messages = 0 Bytes(0%)
+Total average traffic due to EXT_GET_HEADERS messages = 0 Bytes(0%)
+Total average traffic due to EXT_HEADERS messages = 0 Bytes(0%)
+Total average traffic due to EXT_GET_DATA messages = 0 Bytes(0%)
+Total average traffic due to CHUNK messages = 0 Bytes(0%)
+Total average traffic/node = 2.16925e+07 Bytes (14.4616 Kbps and 1084.62 KB/block)
+0.0452564s per generated block
+
+Block Propagation Times = [0.141044, 0.184902, 0.189814, 0.241101, 0.299747, 0.311809, 0.329322, 0.332369, 0.339678, 0.365113, 0.400716, 0.420871, 0.432476, 0.482101, 0.494608, 0.609667]
+
+Miners Block Propagation Times = [0.141044, 0.184902, 0.189814, 0.241101, 0.299747, 0.311809, 0.329322, 0.332369, 0.339678, 0.365113, 0.400716, 0.420871, 0.432476, 0.482101, 0.494608, 0.609667]
+
+Download Bandwidths = [4.58883, 5.79674, 5.8781, 7.5863, 7.70899, 7.04439, 7.70899, 7.70899, 7.70899, 7.70899, 7.70899, 7.70899, 7.70899, 7.70899, 7.70899, 7.70899] average = 7.23082
+
+Upload Bandwidths = [47.0241, 28.8329, 27.6125, 1.89271, 0.02816, 10.0213, 0.02816, 0.02816, 0.02816, 0.02816, 0.02816, 0.02816, 0.02816, 0.02816, 0.02816, 0.02816] average = 7.23082
+
+Total Bandwidths = [51.6129, 34.6296, 33.4906, 9.47901, 7.73715, 17.0657, 7.73715, 7.73715, 7.73715, 7.73715, 7.73715, 7.73715, 7.73715, 7.73715, 7.73715, 7.73715] average = 14.4616
+
+Block Timeouts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] average = 0
+
+Chunk Timeouts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] average = 0
+
+The broadcast type was STANDARD.
+
+The simulation ran for 1.2182s simulating 200mins. Performed 9850.57 faster than realtime.
+Setup time = 0.313076s
+It consisted of 16 nodes (16 miners) with minConnectionsPerNode = -1 and maxConnectionsPerNode = -1.
+The averageBlockGenIntervalMinutes was 10min.

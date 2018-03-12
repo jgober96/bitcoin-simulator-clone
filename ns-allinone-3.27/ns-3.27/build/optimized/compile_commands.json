@@ -101,11 +101,6 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/epc-tft.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/epc-tft.cc.1.o", 
-    "file": "../../src/lte/model/epc-tft.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/core/model/event-impl.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/core/model/event-impl.cc.1.o", 
     "file": "../../src/core/model/event-impl.cc"
   }, 
@@ -261,6 +256,11 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/core/helper/random-variable-stream-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/core/helper/random-variable-stream-helper.cc.1.o", 
+    "file": "../../src/core/helper/random-variable-stream-helper.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -Isrc/dsdv -I../../src/dsdv -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/dsdv/model/dsdv-routing-protocol.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/dsdv/model/dsdv-routing-protocol.cc.1.o", 
     "file": "../../src/dsdv/model/dsdv-routing-protocol.cc"
   }, 
@@ -358,6 +358,11 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/bs-link-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/bs-link-manager.cc.1.o", 
     "file": "../../src/wimax/model/bs-link-manager.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/tcp-congestion-ops.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/tcp-congestion-ops.cc.1.o", 
+    "file": "../../src/internet/model/tcp-congestion-ops.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -486,6 +491,11 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/constant-rate-wifi-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/constant-rate-wifi-manager.cc.1.o", 
+    "file": "../../src/wifi/model/constant-rate-wifi-manager.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/core/model/rng-stream.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/core/model/rng-stream.cc.1.o", 
     "file": "../../src/core/model/rng-stream.cc"
   }, 
@@ -536,8 +546,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wave/helper/wifi-80211p-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wave/helper/wifi-80211p-helper.cc.1.o", 
-    "file": "../../src/wave/helper/wifi-80211p-helper.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/amrr-wifi-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/amrr-wifi-manager.cc.1.o", 
+    "file": "../../src/wifi/model/amrr-wifi-manager.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -626,11 +636,6 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-ue-component-carrier-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-ue-component-carrier-manager.cc.1.o", 
-    "file": "../../src/lte/model/lte-ue-component-carrier-manager.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/helper/ipv4-global-routing-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/helper/ipv4-global-routing-helper.cc.1.o", 
     "file": "../../src/internet/helper/ipv4-global-routing-helper.cc"
   }, 
@@ -656,8 +661,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/udp-l4-protocol.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/udp-l4-protocol.cc.1.o", 
-    "file": "../../src/internet/model/udp-l4-protocol.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/yans-wifi-channel.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/yans-wifi-channel.cc.1.o", 
+    "file": "../../src/wifi/model/yans-wifi-channel.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -761,8 +766,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/yans-wifi-channel.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/yans-wifi-channel.cc.1.o", 
-    "file": "../../src/wifi/model/yans-wifi-channel.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/udp-l4-protocol.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/udp-l4-protocol.cc.1.o", 
+    "file": "../../src/internet/model/udp-l4-protocol.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -971,8 +976,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/tcp-rx-buffer.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/tcp-rx-buffer.cc.1.o", 
-    "file": "../../src/internet/model/tcp-rx-buffer.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -Isrc/aodv -I../../src/aodv -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/aodv/model/aodv-rqueue.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/aodv/model/aodv-rqueue.cc.1.o", 
+    "file": "../../src/aodv/model/aodv-rqueue.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -1023,11 +1028,6 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/core/model/names.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/core/model/names.cc.1.o", 
     "file": "../../src/core/model/names.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/tcp-option-sack.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/tcp-option-sack.cc.1.o", 
-    "file": "../../src/internet/model/tcp-option-sack.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -1161,8 +1161,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/utils/ascii-file.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/utils/ascii-file.cc.1.o", 
-    "file": "../../src/network/utils/ascii-file.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/utils/simple-net-device.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/utils/simple-net-device.cc.1.o", 
+    "file": "../../src/network/utils/simple-net-device.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -1231,6 +1231,11 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wave/helper/wifi-80211p-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wave/helper/wifi-80211p-helper.cc.1.o", 
+    "file": "../../src/wave/helper/wifi-80211p-helper.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/energy/model/basic-energy-source.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/energy/model/basic-energy-source.cc.1.o", 
     "file": "../../src/energy/model/basic-energy-source.cc"
   }, 
@@ -1261,11 +1266,6 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/candidate-queue.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/candidate-queue.cc.1.o", 
-    "file": "../../src/internet/model/candidate-queue.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/msdu-aggregator.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/msdu-aggregator.cc.1.o", 
     "file": "../../src/wifi/model/msdu-aggregator.cc"
   }, 
@@ -1278,6 +1278,11 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/mobility/model/random-direction-2d-mobility-model.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/mobility/model/random-direction-2d-mobility-model.cc.1.o", 
     "file": "../../src/mobility/model/random-direction-2d-mobility-model.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/service-flow-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/service-flow-manager.cc.1.o", 
+    "file": "../../src/wimax/model/service-flow-manager.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -1411,6 +1416,11 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/model/byte-tag-list.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/model/byte-tag-list.cc.1.o", 
+    "file": "../../src/network/model/byte-tag-list.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/buildings/helper/building-position-allocator.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/buildings/helper/building-position-allocator.cc.1.o", 
     "file": "../../src/buildings/helper/building-position-allocator.cc"
   }, 
@@ -1498,11 +1508,6 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/helper/wimax-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/helper/wimax-helper.cc.1.o", 
     "file": "../../src/wimax/helper/wimax-helper.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/amrr-wifi-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/amrr-wifi-manager.cc.1.o", 
-    "file": "../../src/wifi/model/amrr-wifi-manager.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -1931,11 +1936,6 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/ipv6-interface-address.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/ipv6-interface-address.cc.1.o", 
-    "file": "../../src/internet/model/ipv6-interface-address.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/energy/helper/basic-energy-harvester-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/energy/helper/basic-energy-harvester-helper.cc.1.o", 
     "file": "../../src/energy/helper/basic-energy-harvester-helper.cc"
   }, 
@@ -1946,18 +1946,13 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/service-flow.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/service-flow.cc.1.o", 
-    "file": "../../src/wimax/model/service-flow.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/helper/radio-bearer-stats-calculator.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/helper/radio-bearer-stats-calculator.cc.1.o", 
+    "file": "../../src/lte/helper/radio-bearer-stats-calculator.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/status-code.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/status-code.cc.1.o", 
     "file": "../../src/wifi/model/status-code.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/applications/model/bitcoin-selfish-miner-trials.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/applications/model/bitcoin-selfish-miner-trials.cc.1.o", 
-    "file": "../../src/applications/model/bitcoin-selfish-miner-trials.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2033,6 +2028,11 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/frame-capture-model.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/frame-capture-model.cc.1.o", 
     "file": "../../src/wifi/model/frame-capture-model.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/utils/ascii-file.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/utils/ascii-file.cc.1.o", 
+    "file": "../../src/network/utils/ascii-file.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2256,8 +2256,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/tcp-congestion-ops.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/tcp-congestion-ops.cc.1.o", 
-    "file": "../../src/internet/model/tcp-congestion-ops.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/epc-tft.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/epc-tft.cc.1.o", 
+    "file": "../../src/lte/model/epc-tft.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2491,6 +2491,11 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/tcp-rx-buffer.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/tcp-rx-buffer.cc.1.o", 
+    "file": "../../src/internet/model/tcp-rx-buffer.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/helper/phy-tx-stats-calculator.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/helper/phy-tx-stats-calculator.cc.1.o", 
     "file": "../../src/lte/helper/phy-tx-stats-calculator.cc"
   }, 
@@ -2498,11 +2503,6 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/energy/helper/energy-source-container.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/energy/helper/energy-source-container.cc.1.o", 
     "file": "../../src/energy/helper/energy-source-container.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-ffr-algorithm.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-ffr-algorithm.cc.1.o", 
-    "file": "../../src/lte/model/lte-ffr-algorithm.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2576,11 +2576,6 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/utils/simple-net-device.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/utils/simple-net-device.cc.1.o", 
-    "file": "../../src/network/utils/simple-net-device.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/ampdu-subframe-header.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/ampdu-subframe-header.cc.1.o", 
     "file": "../../src/wifi/model/ampdu-subframe-header.cc"
   }, 
@@ -2596,8 +2591,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/ipv6-l3-protocol.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/ipv6-l3-protocol.cc.1.o", 
-    "file": "../../src/internet/model/ipv6-l3-protocol.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/ss-scheduler.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/ss-scheduler.cc.1.o", 
+    "file": "../../src/wimax/model/ss-scheduler.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2616,8 +2611,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/wifi/model/constant-rate-wifi-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wifi/model/constant-rate-wifi-manager.cc.1.o", 
-    "file": "../../src/wifi/model/constant-rate-wifi-manager.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-phy.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-phy.cc.1.o", 
+    "file": "../../src/lte/model/lte-phy.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2876,8 +2871,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/service-flow-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/service-flow-manager.cc.1.o", 
-    "file": "../../src/wimax/model/service-flow-manager.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-ue-component-carrier-manager.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-ue-component-carrier-manager.cc.1.o", 
+    "file": "../../src/lte/model/lte-ue-component-carrier-manager.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -2978,6 +2973,11 @@
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/helper/radio-bearer-stats-connector.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/helper/radio-bearer-stats-connector.cc.1.o", 
     "file": "../../src/lte/helper/radio-bearer-stats-connector.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wave/helper/wave-bsm-stats.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wave/helper/wave-bsm-stats.cc.1.o", 
+    "file": "../../src/wave/helper/wave-bsm-stats.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -3196,11 +3196,6 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/utils/flow-id-tag.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/utils/flow-id-tag.cc.1.o", 
-    "file": "../../src/network/utils/flow-id-tag.cc"
-  }, 
-  {
-    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-handover-algorithm.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-handover-algorithm.cc.1.o", 
     "file": "../../src/lte/model/lte-handover-algorithm.cc"
   }, 
@@ -3236,8 +3231,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/ss-scheduler.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/ss-scheduler.cc.1.o", 
-    "file": "../../src/wimax/model/ss-scheduler.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/ipv6-l3-protocol.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/ipv6-l3-protocol.cc.1.o", 
+    "file": "../../src/internet/model/ipv6-l3-protocol.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -3306,8 +3301,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/model/byte-tag-list.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/model/byte-tag-list.cc.1.o", 
-    "file": "../../src/network/model/byte-tag-list.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -Isrc/dsr -I../../src/dsr -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/dsr/model/dsr-maintain-buff.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/dsr/model/dsr-maintain-buff.cc.1.o", 
+    "file": "../../src/dsr/model/dsr-maintain-buff.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -3331,8 +3326,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-phy.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-phy.cc.1.o", 
-    "file": "../../src/lte/model/lte-phy.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/tcp-option-sack.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/tcp-option-sack.cc.1.o", 
+    "file": "../../src/internet/model/tcp-option-sack.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -3486,8 +3481,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/core/helper/random-variable-stream-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/core/helper/random-variable-stream-helper.cc.1.o", 
-    "file": "../../src/core/helper/random-variable-stream-helper.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/buildings/helper/buildings-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/buildings/helper/buildings-helper.cc.1.o", 
+    "file": "../../src/buildings/helper/buildings-helper.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -3581,8 +3576,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/helper/radio-bearer-stats-calculator.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/helper/radio-bearer-stats-calculator.cc.1.o", 
-    "file": "../../src/lte/helper/radio-bearer-stats-calculator.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wimax/model/service-flow.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wimax/model/service-flow.cc.1.o", 
+    "file": "../../src/wimax/model/service-flow.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -3691,8 +3686,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -Isrc/aodv -I../../src/aodv -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/aodv/model/aodv-rqueue.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/aodv/model/aodv-rqueue.cc.1.o", 
-    "file": "../../src/aodv/model/aodv-rqueue.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/network/utils/flow-id-tag.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/network/utils/flow-id-tag.cc.1.o", 
+    "file": "../../src/network/utils/flow-id-tag.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -4061,8 +4056,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/wave/helper/wave-bsm-stats.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/wave/helper/wave-bsm-stats.cc.1.o", 
-    "file": "../../src/wave/helper/wave-bsm-stats.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-ffr-algorithm.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-ffr-algorithm.cc.1.o", 
+    "file": "../../src/lte/model/lte-ffr-algorithm.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -4111,13 +4106,13 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/buildings/helper/buildings-helper.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/buildings/helper/buildings-helper.cc.1.o", 
-    "file": "../../src/buildings/helper/buildings-helper.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/applications/model/bitcoin-selfish-miner-trials.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/applications/model/bitcoin-selfish-miner-trials.cc.1.o", 
+    "file": "../../src/applications/model/bitcoin-selfish-miner-trials.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -Isrc/dsr -I../../src/dsr -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/dsr/model/dsr-maintain-buff.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/dsr/model/dsr-maintain-buff.cc.1.o", 
-    "file": "../../src/dsr/model/dsr-maintain-buff.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/ipv6-interface-address.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/ipv6-interface-address.cc.1.o", 
+    "file": "../../src/internet/model/ipv6-interface-address.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
@@ -4191,6 +4186,11 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/ipv6-routing-table-entry.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/ipv6-routing-table-entry.cc.1.o", 
+    "file": "../../src/internet/model/ipv6-routing-table-entry.cc"
+  }, 
+  {
+    "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
     "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/lte/model/lte-ue-cphy-sap.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/lte/model/lte-ue-cphy-sap.cc.1.o", 
     "file": "../../src/lte/model/lte-ue-cphy-sap.cc"
   }, 
@@ -4261,8 +4261,8 @@
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 
-    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/ipv6-routing-table-entry.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/ipv6-routing-table-entry.cc.1.o", 
-    "file": "../../src/internet/model/ipv6-routing-table-entry.cc"
+    "command": "/usr/bin/g++ -std=c++11 -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -pthread -pthread -I. -I../.. -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent -I/usr/lib/openmpi/include/openmpi/opal/mca/event/libevent2021/libevent/include -I/usr/lib/openmpi/include -I/usr/lib/openmpi/include/openmpi -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI ../../src/internet/model/candidate-queue.cc -c -o /home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized/src/internet/model/candidate-queue.cc.1.o", 
+    "file": "../../src/internet/model/candidate-queue.cc"
   }, 
   {
     "directory": "/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized", 

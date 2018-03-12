@@ -1,0 +1,94 @@
+Waf: Entering directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Waf: Leaving directory `/home/jake/Bitcoin-Simulator/ns-allinone-3.27/ns-3.27/build/optimized'
+Build commands will be stored in build/optimized/compile_commands.json
+'build' finished successfully (0.498s)
+Iteration : 1 6 600 10 20
+BITCOIN Mode selected
+Node 0 should have at least 700 connections but it has only 15 connections
+Node 1 should have at least 700 connections but it has only 15 connections
+Node 2 should have at least 700 connections but it has only 15 connections
+Node 3 should have at least 700 connections but it has only 15 connections
+Node 4 should have at least 700 connections but it has only 15 connections
+Node 5 should have at least 700 connections but it has only 15 connections
+Node 6 should have at least 700 connections but it has only 15 connections
+Node 7 should have at least 700 connections but it has only 15 connections
+Node 8 should have at least 700 connections but it has only 15 connections
+Node 9 should have at least 700 connections but it has only 15 connections
+Node 10 should have at least 700 connections but it has only 15 connections
+Node 11 should have at least 700 connections but it has only 15 connections
+Node 12 should have at least 700 connections but it has only 15 connections
+Node 13 should have at least 700 connections but it has only 15 connections
+Node 14 should have at least 700 connections but it has only 15 connections
+Node 15 should have at least 700 connections but it has only 15 connections
+
+The nodes connections stats are:
+Average Number of Connections Per Node = -nan
+Average Number of Connections Per Miner = 15
+Connections distribution: 
+1-5: 0(0%)
+5-10: 0(0%)
+10-15: 16(100%)
+15-20: 0(0%)
+20-30: 0(0%)
+30-125: 0(0%)
+125-800: 0(0%)
+The nodes connections were created in 0.20013s.
+The minimum number of connections for each node is 1 and whereas the maximum is 1.
+The nodes were created in 0.000142097s.
+The total number of links is 120 (0.043575s).
+Internet stack installed in 0.00375295s.
+The Ip addresses have been assigned in 0.00418615s.
+Nodes distribution: 
+NORTH_AMERICA: 56.25%
+EUROPE: 18.75%
+SOUTH_AMERICA: 0%
+ASIA_PACIFIC: 25%
+JAPAN: 0%
+AUSTRALIA: 0%
+OTHER: 0%
+The miner 0 with hash rate = 0.185 generated 1 blocks (7.69231%) with average block generation time = 5.29189s or 0min and 5.29189s and average size 246730 Bytes
+Time/Block = 0.0349587s
+The miner 1 with hash rate = 0.159 generated 2 blocks (15.3846%) with average block generation time = 4878.25s or 81min and 18.2474s and average size 263973 Bytes
+The miner 2 with hash rate = 0.133 generated 2 blocks (15.3846%) with average block generation time = 5093.35s or 84min and 53.3516s and average size 170581 Bytes
+The miner 3 with hash rate = 0.066 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 4 with hash rate = 0.054 generated 4 blocks (30.7692%) with average block generation time = 2578.72s or 42min and 58.7244s and average size 729473 Bytes
+The miner 5 with hash rate = 0.029 generated 2 blocks (15.3846%) with average block generation time = 5582.45s or 93min and 2.45155s and average size 871147 Bytes
+The miner 6 with hash rate = 0.016 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 7 with hash rate = 0.012 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 8 with hash rate = 0.012 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 9 with hash rate = 0.012 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 10 with hash rate = 0.009 generated 2 blocks (15.3846%) with average block generation time = 1867.1s or 31min and 7.1002s and average size 629024 Bytes
+The miner 11 with hash rate = 0.005 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 12 with hash rate = 0.005 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 13 with hash rate = 0.002 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The miner 14 with hash rate = 0.002 generated 0 blocks (0%) with average block generation time = 0s or 0min and 0s and average size 0 Bytes
+The selfish miner 15 with hash rate = 0.3 generated 9 blocks (40.9091%) with average block generation time = 1273.39s or 21min and 13.3867s and average size 419065 Bytes
+Iteration 1 lasted 0.560486s
+
+
+Node 15 statistics:
+Connections = 15
+Mean Block Receive Time = 502.693 or 8min and 22.6927s
+Mean Block Propagation Time = 0.170898s
+Mean Block Size = 483624 Bytes
+Total Blocks = 23
+Stale Blocks = 7 (30.4348%)
+The size of the longest fork was 7 blocks
+There were in total 14 blocks in forks
+There were 0 successful double-spending attacks.
+The miner 15 with hash rate = 30% generated 9 blocks (40.9091%) with average block generation time = 1273.39s or 21min and 13.3867s and average size 419065 Bytes
+Total Blocks = 23
+Mined Blocks in main blockchain = 0
+Honest Mining Income = 9
+Attacker Income = 0(-100%)
+
+
+The simulation ran for 0.829672s simulating 200mins.
+It consisted of 16 nodes (16 miners) with minConnectionsPerNode = 1 and maxConnectionsPerNode = 1.
+
+The number of secure blocks required was 6.
+The averageBlockGenIntervalMinutes was 10min and averageBlockGenIntervalSeconds was 600.
+Each attack had a duration of 20 generated blocks.
+The attacker's hash rate was 0.3.
+The number of iterations was 1.
+

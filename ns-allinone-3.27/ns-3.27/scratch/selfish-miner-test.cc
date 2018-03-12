@@ -68,16 +68,16 @@ main (int argc, char *argv[])
   
   double minersHash[] = {0.185, 0.159, 0.133, 0.066, 0.054,
                                 0.029, 0.016, 0.012, 0.012, 0.012, 0.009,
-                                0.005, 0.005, 0.002, 0.002, 0.3};
+                                0.005, 0.005, 0.002, 0.002, 0.1,0.1,0.1};
   enum BitcoinRegion minersRegions[] = {ASIA_PACIFIC, ASIA_PACIFIC, NORTH_AMERICA, ASIA_PACIFIC, NORTH_AMERICA,
                                                EUROPE, EUROPE, NORTH_AMERICA, NORTH_AMERICA, NORTH_AMERICA, EUROPE,
-                                               NORTH_AMERICA, NORTH_AMERICA, NORTH_AMERICA, NORTH_AMERICA, ASIA_PACIFIC};
+                                               NORTH_AMERICA, NORTH_AMERICA, NORTH_AMERICA, NORTH_AMERICA, ASIA_PACIFIC, NORTH_AMERICA, NORTH_AMERICA};
 /*   double minersHash[] = {0.4, 0.4, 0.3};
   enum BitcoinRegion minersRegions[] = {ASIA_PACIFIC, ASIA_PACIFIC, ASIA_PACIFIC}; */
 
   int totalNoNodes = sizeof(minersHash)/sizeof(double);
   int noMiners = totalNoNodes;
-  int attackerId = totalNoNodes - 1;
+  int attackerId = totalNoNodes - 3;
   int minConnectionsPerNode = 1;
   int maxConnectionsPerNode = 1;
   
@@ -190,8 +190,8 @@ main (int argc, char *argv[])
 	
 	  if (systemId == targetNode->GetSystemId())
 	  {
-		  
-	    if (attackerId == miner)
+	    // trying to see if I can add more than 1 selfish miner   
+	    if (miner >= attackerId)
         {
           bitcoinMinerHelper.SetMinerType (selfish ? SELFISH_MINER : SIMPLE_ATTACKER);
         }
